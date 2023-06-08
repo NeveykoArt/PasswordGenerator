@@ -1,5 +1,4 @@
-# cw-is-041_password-generator
-cw-is-041_password-generator created by GitHub Classroom
+# is-041_password-generator (NeveykoArt, Gusev-Art)
 
 Консольная утилита позволяет пользователю генерировать случайные пароли с помощью различных опций в терминале: 
 создание пароля без цифр или с цифрами / без заглавных букв или с хотя бы одной / содержащего хотя бы один спецсимвол.
